@@ -1,0 +1,6 @@
+{
+  "name": "컴닥터",
+  "description": "Smart hardware detection and custom upgrade priority recommendations based on your usage goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Analysis", "Hardware Detection", "Upgrade Budgeting"]
+}
